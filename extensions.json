@@ -25,7 +25,7 @@
         "name": "Mod.io Extension",
         "desc": "An extension to support Mod.io REST API.",
         "link": "https://raw.githubusercontent.com/SilliKubi/TW-PM-Modioextenstion/refs/heads/main/modio.js",
-        "version": 1.0
+        "version": 1.2
     },
     {
         "id": 5,
