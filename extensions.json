@@ -4,6 +4,17 @@
         "name": "Mod.io Extension",
         "desc": "An extension to support Mod.io REST API.",
         "link": "https://raw.githubusercontent.com/SilliKubi/TW-PM-Modioextenstion/refs/heads/main/modio.js",
+        "icon": "",
         "version": 1.0
+        "beta": false
+    },
+    {
+        "id": 2,
+        "name": "Rhythm Helper",
+        "desc": "An extension to ease the process of making rhythm games.",
+        "link": "https://raw.githubusercontent.com/SilliKubi/ExtensionPage/refs/heads/main/RhythmHelper.js",
+        "icon": "",
+        "version": 1.0
+        "beta": true
     }
 ]
